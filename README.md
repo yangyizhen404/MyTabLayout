@@ -2,7 +2,7 @@ MyTabLayout
 ---
 
 # 简介
-在做项目的时候发现有些需求官方TabLayout不能满足，所以就把TabLayout源码拔出来，自定义了一个MyTabLayout添加了一些属性，其他功能跟官方完全相同，只是多出了几个新属性。
+在做项目的时候发现有些需求官方TabLayout不能满足，所以就把TabLayout源码拔出来，自定义了一个MyTabLayout添加了一些属性(可以修改下划线宽度，新增底部分割线和竖直分割线)，其他功能跟官方完全相同，只是多出了几个新属性。
 
 添加新属性：
 - tabIndicatorWidth - 下滑线的宽度
@@ -45,4 +45,5 @@ app:dividerHeight="40dp"
 ```
 
 ## API文档
+![《自定义TabLayout（可以修改下划线宽度，新增底部分割线和竖直分割线）》](https://www.jianshu.com/p/ac3c7130d37c)
 

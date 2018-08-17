@@ -13,7 +13,7 @@ MyTabLayout
 - bottomLineColor - 底部分隔栏的颜色
 
 # 效果展示
-![运行效果](images/AndroidTest.png)
+![运行效果](images/AndroidTest.jpg)
 
 # 使用方式
 

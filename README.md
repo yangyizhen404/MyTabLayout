@@ -44,6 +44,6 @@ app:dividerWidth="1dp"
 app:dividerHeight="40dp"
 ```
 
-## API文档
-![《自定义TabLayout（可以修改下划线宽度，新增底部分割线和竖直分割线）》](https://www.jianshu.com/p/ac3c7130d37c)
+## 简书地址
+-[《自定义TabLayout（可以修改下划线宽度，新增底部分割线和竖直分割线）》](https://www.jianshu.com/p/ac3c7130d37c)
 

@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         initTab((TabLayout) findViewById(R.id.m_tab4));
     }
 
+
     private void initTab(TabLayout view) {
         String[] title = {"北京朝阳", "四川成都","广州深圳","上海外滩"};
         for (int i = 0; i < title.length; i++) {

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.yang.mytablaytout.MainActivity">
+
+    <com.yang.mytab.TabLayout
+        android:id="@+id/m_tab"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        app:tabBackground="@android:color/transparent"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="#000"
+        app:tabIndicatorHeight="2dp"
+        app:tabIndicatorWidth="0dp"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/colorPrimaryDark"
+        app:tabTextColor="#000"
+        app:bottomLineHeight="1dp"
+        app:bottomLineColor="@color/colorPrimaryDark"
+        app:dividerColor="@color/colorPrimaryDark"
+        app:dividerWidth="1dp"
+        app:dividerHeight="40dp"
+        />
+
+    <com.yang.mytab.TabLayout
+        android:id="@+id/m_tab1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        app:tabBackground="@android:color/transparent"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="@color/colorPrimaryDark"
+        app:tabIndicatorHeight="2dp"
+        app:tabIndicatorWidth="40dp"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/colorPrimaryDark"
+        app:tabTextColor="#000"
+        app:bottomLineHeight="0dp"
+        app:dividerWidth="0dp"
+        app:dividerHeight="50dp"
+        />
+
+    <com.yang.mytab.TabLayout
+        android:id="@+id/m_tab2"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        app:tabBackground="@android:color/transparent"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="@color/colorPrimaryDark"
+        app:tabIndicatorHeight="2dp"
+        app:tabIndicatorWidth="20dp"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/colorPrimaryDark"
+        app:tabTextColor="#000"
+        app:bottomLineHeight="0dp"
+        app:dividerWidth="2dp"
+        app:dividerHeight="10dp"
+        />
+
+    <com.yang.mytab.TabLayout
+        android:id="@+id/m_tab3"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        app:tabBackground="@android:color/transparent"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="@color/colorPrimaryDark"
+        app:tabIndicatorHeight="0dp"
+        app:tabIndicatorWidth="20dp"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/colorPrimaryDark"
+        app:tabTextColor="#000"
+        app:bottomLineHeight="0dp"
+        app:dividerWidth="2dp"
+        app:dividerHeight="10dp"
+        />
+
+    <com.yang.mytab.TabLayout
+        android:id="@+id/m_tab4"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        app:tabBackground="@android:color/transparent"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="@color/colorPrimaryDark"
+        app:tabIndicatorHeight="2dp"
+        app:tabIndicatorWidth="20dp"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/colorPrimaryDark"
+        app:tabTextColor="#000"
+        app:bottomLineHeight="2dp"
+        app:dividerWidth="2dp"
+        app:dividerHeight="10dp"
+        />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyTabLaytout.iml" filepath="$PROJECT_DIR$/MyTabLaytout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytab/mytab.iml" filepath="$PROJECT_DIR$/mytab/mytab.iml" />
+    </modules>
+  </component>
+</project>

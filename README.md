@@ -13,7 +13,7 @@ MyTabLayout
 - bottomLineColor - 底部分隔栏的颜色
 
 # 效果展示
-![运行效果](images/AndroidTest.jpg)
+![运行效果](images/AndroidTest.png)
 
 # 使用方式
 
@@ -21,10 +21,10 @@ MyTabLayout
 确保在你的根项目的build.gradle中对`jitpack`的声明：
 ```gradle
 allprojects {
-		repositories {
-		   ...
-		   maven { url 'https://jitpack.io' }
-		}
+	repositories {
+        ...
+		maven { url 'https://jitpack.io' }
+    }
 }
 ```
 
